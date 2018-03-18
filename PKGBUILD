@@ -1,4 +1,4 @@
-# Maintainer: Noa-Emil Nissinen <4shadoww0 at gmail dot com>
+# Maintainer: Noa-Emil Nissinen <aur dot satella at spamgourmet dot org>
 pkgname=binfmt-support
 pkgver=2.1.8
 pkgrel=1
